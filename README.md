@@ -43,7 +43,7 @@ Setup:
 
 *Datasphere Exercises:*
 
-1. [Datasphere Tutorial](../exercises/tutorial-datasphere.md)
+1. [Datasphere Tutorial](../exercises/tutorial-datasphere.md) 
 
 
 Link:
