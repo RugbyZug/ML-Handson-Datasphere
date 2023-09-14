@@ -12,7 +12,7 @@ Username: provided by instructor
 
 Password: provided by instructor
 
-![alt text](https://github.tools.sap/I560886/ML-Handson-Datasphere/blob/main/01_Assets/img/Picture%201.png)
+![alt text](ML-Handson-Datasphere/main/01_Assets/img/Picture%201.png)
 
 Then press the Log On button.
 
