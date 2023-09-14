@@ -12,7 +12,7 @@ Username: provided by instructor
 
 Password: provided by instructor
 
-![alt text](01_Assets/img/Picture%201.png)
+![alt text](../01_Assets/img/Picture 1.png)
 
 Then press the Log On button.
 
