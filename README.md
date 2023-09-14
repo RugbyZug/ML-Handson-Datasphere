@@ -43,7 +43,7 @@ Setup:
 
 *Datasphere Exercises:*
 
-1. [Datasphere Tutorial](exercises/010-check_setup.ipynb)
+1. [Datasphere Tutorial](../exercises/010-check_setup.ipynb)
 
 
 Link:
