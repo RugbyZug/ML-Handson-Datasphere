@@ -23,17 +23,17 @@ credentials.
 Expand the **Navigation Menu** in the top left corner to see the full
 list of features.
 
-![alt text](https://github.tools.sap/I560886/ML-Handson-Datasphere/blob/main/01_Assets/img/Picture%202.png)
+![alt text](../01_Assets/img/Picture002.png) 
 
 Collapse to hide the detail again.
 
-![alt text](https://github.tools.sap/I560886/ML-Handson-Datasphere/blob/main/01_Assets/img/Picture%203.png)
+![alt text](../01_Assets/img/Picture003.png) 
 
 In the middle of the screen, you'll find some short cuts to the Space
 Management and Data Builder, as well as an RSS feed of trending topics
 on SAP Datasphere.
 
-![alt text](https://github.tools.sap/I560886/ML-Handson-Datasphere/blob/main/01_Assets/img/Picture%204.png)
+![alt text](../01_Assets/img/Picture004.png) 
 
 # Import a Dataset into SAP Datasphere
 
@@ -54,14 +54,14 @@ them.
 To access the Data Builder, simply click on the Data Builder icon on the
 left-hand side menu of SAP Datasphere.
 
-![alt text](https://github.tools.sap/I560886/ML-Handson-Datasphere/blob/main/01_Assets/img/Picture%205.png)
+![alt text](../01_Assets/img/Picture005.png) 
 
 Now it's time to import the CSV files, so you can get active with SAP
 Datasphere. The CSV files are provided by the instructor.
 
 Simply click on the import CSV icon as shown in the image below.
 
-![alt text](https://github.tools.sap/I560886/ML-Handson-Datasphere/blob/main/01_Assets/img/Picture%206.png)
+![alt text](../01_Assets/img/Picture006.png) 
 
 Then, select your source file from your system.
 
@@ -70,10 +70,10 @@ Quickly review your data and then click deploy once done.
 Give the table a business name and then wait whilst the table is
 deployed.
 
-![alt text](https://github.tools.sap/I560886/ML-Handson-Datasphere/blob/main/01_Assets/img/Picture%207.png)
+![alt text](../01_Assets/img/Picture007.png) 
 
 The deployed table is listed\
-![alt text](https://github.tools.sap/I560886/ML-Handson-Datasphere/blob/main/01_Assets/img/Picture%208.png)
+![alt text](../01_Assets/img/Picture008.png) 
 
 # Create a Graphical View in SAP Datasphere
 
@@ -84,18 +84,18 @@ aspects of your output structure in the output node.
 
 Go to the Data Builder and click on the New Graphical View button.
 
-![alt text](https://github.tools.sap/I560886/ML-Handson-Datasphere/blob/main/01_Assets/img/Picture%209.png)
+![alt text](../01_Assets/img/Picture009.png) 
 
 Now that you are in the graphical model builder, it's time to find the
 data. As you imported CSV files, your data is under Repository, on the
 top right-hand side of the screen.
 
-![alt text](https://github.tools.sap/I560886/ML-Handson-Datasphere/blob/main/01_Assets/img/Picture%2010.png)
+![alt text](../01_Assets/img/Picture010.png) 
 
 To start building your model, click and drag
 the LucerneElectricity table onto the canvas.
 
-![alt text](https://github.tools.sap/I560886/ML-Handson-Datasphere/blob/main/01_Assets/img/Picture%2011.png)
+![alt text](../01_Assets/img/Picture011.png) 
 
 As you can see, an output node appears on the canvas as soon as your
 drop your table in it. The output node is where all of our join table
@@ -104,18 +104,18 @@ information will appear once you've completed the model.
 Click on the output node and then click on the data preview button to
 see a preview of the data.
 
-![alt text](https://github.tools.sap/I560886/ML-Handson-Datasphere/blob/main/01_Assets/img/Picture%2012.png)
+![alt text](../01_Assets/img/Picture012.png) 
 
 Enable the \"Expose for Consumption\" switch (Reporting Layer) to make a
 view available for consumption in SAP Analytics Cloud and other analytic
 clients and in ETL and other tools. Only views that have the \"Expose
 for Consumption\" switch enabled can be accessed outside the space.
 
-![alt text](https://github.tools.sap/I560886/ML-Handson-Datasphere/blob/main/01_Assets/img/Picture%2013.png)
+![alt text](../01_Assets/img/Picture013.png) 
 
 Rename the View to V_LucerneElectricity
 
-![alt text](https://github.tools.sap/I560886/ML-Handson-Datasphere/blob/main/01_Assets/img/Picture%2014.png)
+![alt text](../01_Assets/img/Picture014.png) 
 
 You have successfully created your graphical view. It is now extremely
 important to first save, and then deploy your view. When you save an
@@ -124,7 +124,7 @@ the design-time definitions of all your objects. When you deploy an
 object, you are creating a run-time version for use in the SAP
 Datasphere database.
 
-![alt text](https://github.tools.sap/I560886/ML-Handson-Datasphere/blob/main/01_Assets/img/Picture%2015.png)
+![alt text](../01_Assets/img/Picture015.png) 
 
 # Create New Database User
 
@@ -140,14 +140,14 @@ If prompted select your space XXXXX .
 
 Verify that you see your Space ID at the top of your Session.
 
-![alt text](https://github.tools.sap/I560886/ML-Handson-Datasphere/blob/main/01_Assets/img/Picture%2016.png)
+![alt text](../01_Assets/img/Picture016.png) 
 
 We will now create a new User and an associated schema in the underlying
 database.
 
 Navigate to the Database Users section of your space and click Create.
 
-![alt text](https://github.tools.sap/I560886/ML-Handson-Datasphere/blob/main/01_Assets/img/Picture%2017.png)
+![alt text](../01_Assets/img/Picture017.png) 
 
 Name the Database user suffix as OPENSCHEMA.
 
@@ -160,7 +160,7 @@ Check the box for Enable Write Access (SQL, DDL & DML).
 
 Click Create.
 
-![alt text](https://github.tools.sap/I560886/ML-Handson-Datasphere/blob/main/01_Assets/img/Picture%2018.png)
+![alt text](../01_Assets/img/Picture018.png) 
 
 Now Click Deploy to activate these changes to your space.
 
@@ -170,7 +170,7 @@ Deploymenht was successful before going to the next step.
 Once the 'Deployment was Successful' message appears, click on the "i"
 button at the far-right end of the line with your new user on it.
 
-![alt text](https://github.tools.sap/I560886/ML-Handson-Datasphere/blob/main/01_Assets/img/Picture%2019.png)
+![alt text](../01_Assets/img/Picture019.png) 
 
 Note the system-generated Host Name and Port for future use -- this is
 the database host name to connect from third party tools. We will not
@@ -180,7 +180,7 @@ Click on Request New Password.
 
 We want to generate a new password for our Database User.
 
-![alt text](https://github.tools.sap/I560886/ML-Handson-Datasphere/blob/main/01_Assets/img/Picture%2020.png)
+![alt text](../01_Assets/img/Picture020.png) 
 
 Click on the Show Password icon.
 
@@ -191,7 +191,7 @@ Click Close.
 
 **Note**: You will need this password in subsequent steps!
 
-![alt text](https://github.tools.sap/I560886/ML-Handson-Datasphere/blob/main/01_Assets/img/Picture%2021.png)
+![alt text](../01_Assets/img/Picture021.png) 
 
 # Log in with Database User
 
@@ -206,14 +206,14 @@ Check the box next to your newly created User.
 
 Click Open Database Explorer.
 
-![alt text](https://github.tools.sap/I560886/ML-Handson-Datasphere/blob/main/01_Assets/img/Picture%2022.png)
+![alt text](../01_Assets/img/Picture022.png) 
 
 Enter the identify provider key value **sdctapoc-platform** in the input
 field.
 
 Click on 'Sign in with alternative identity provider'.
 
-![alt text](https://github.tools.sap/I560886/ML-Handson-Datasphere/blob/main/01_Assets/img/Picture%2023.png)
+![alt text](../01_Assets/img/Picture023.png) 
 
 Enter the password we saved in the Clipboard in an earlier step.
 
@@ -223,7 +223,7 @@ other text except for the username).
 
 This will be your database description displayed in Database Explorer.
 
-![alt text](https://github.tools.sap/I560886/ML-Handson-Datasphere/blob/main/01_Assets/img/Picture%2024.png)
+![alt text](../01_Assets/img/Picture024.png) 
 
 Click OK.
 
@@ -237,7 +237,7 @@ Right Click on "Views".
 
 Show Views
 
-![alt text](https://github.tools.sap/I560886/ML-Handson-Datasphere/blob/main/01_Assets/img/Picture%2025.png)
+![alt text](../01_Assets/img/Picture025.png) 
 
 You can use the filter for an better overview.
 
