@@ -14,6 +14,6 @@ In this guide, you'll create a codespace from this repository and explore some e
 <BR>
 It should look like this:
 
-![alt text](../01_Assets/img/020_Codespacepng) 
+![alt text](../01_Assets/img/020_Codespace.png) 
 
 
