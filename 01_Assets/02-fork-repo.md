@@ -1,54 +1,49 @@
-# ML-/ Datasphere Hands-On Worksop
-Getting Started with Machine Learning using SAP HANA and Python
+# Fork a Repo: A Comprehensive Guide for Mac Users
 
+A fork is a new repository that shares code and visibility settings with the original "upstream" repository. Forks are often used to propose changes before they are integrated into the main project.
+
+## About Forks
+
+A fork is a new repository that shares code and visibility settings with the original “upstream” repository. Forks are commonly used to iterate on ideas or changes before they are proposed back to the upstream repository. This is especially useful in open source projects or when you do not have write access to the upstream repository. **We need to fork this repository so you can work with the exericse files provided in you own work space**
+
+### Propose Changes to Someone Else's Project
+
+You can use forks to propose changes related to fixing a bug. The general workflow is:
+
+1. Fork the repository.
+2. Make the fix.
+3. Submit a pull request to the project owner.
+
+## Open Source and Forks
+
+Open source software is based on the idea that sharing code can lead to better, more reliable software. For more information, see "About the Open Source Initiative" and GitHub's white paper "An introduction to innersource."
+
+## Prerequisites
+
+Before forking a repository, set up Git and authenticate with GitHub.com. For more information, see [Setup your Github Account](/01_Assets/01-get-account.md)
+
+## Forking a Repository
+
+You might fork a project to propose changes to the upstream repository. In this case, it's good practice to regularly sync your fork with the upstream repository. To do this, you'll need to use Git on the command line. You can practice setting the upstream repository using the same  [ermaconomist/ML-Handson-Datasphere](https://github.com/Ermaconomist/ML-Handson-Datasphere) repository you just forked.
+
+1. On GitHub.com, navigate to the [ermaconomist/ML-Handson-Datasphere](https://github.com/Ermaconomist/ML-Handson-Datasphere) repository.
+1. In the top-right corner of the page, click Fork.
+<br>
+![alt text](https://docs.github.com/assets/cb-79331/mw-1440/images/help/repository/fork_button.webp) 
+1. Under "Owner," select the dropdown menu and click an owner for the forked repository.
+1. By default, forks are named the same as their upstream repositories. Optionally, to further distinguish your fork, in the "Repository name" field, type a name.
+1. Optionally, in the "Description" field, type a description of your fork.
+1. Click Create fork.
+
+
+<details>
 
 <br>
-
-## Description
-
-This repository contains the material for the on-site and virtual ML-/ Datasphere Hands-On Worksop with SAP. You will learn how the Machine Learning process develops using a Python Client for SAP HANA and how we can leverage SAP Datasphere within the process.
-
 <br>
- 
-## Requirements
+  <summary>More information on how to Fork Setups</summary>
+<br>
 
-For this Workshop, you'll need to follow certain steps that are documented here:
+1. [Github Docu on forking](https://docs.github.com/en/get-started/quickstart/fork-a-repo?platform=mac)
 
+</details>
 
-### Material organization
-
-The material consists of a series of exercises. Each exercise is a notebook to be executed. See below where to start with the exercises.
-
-### Following the exercises
-
-If you finish an exercise early, please resist the temptation to continue with the next one. Instead, explore what you've just done and see if you can find out more about the subject that was covered. That way we all stay on track together and can benefit from some reflection via the questions (and answers).
-
-
-Here's an overview of the exercises but make certain that you have successfully completed all the [setup steps](01_Assets/setup-bas.md) first
-
-### Set Up:
-1. [Setup your Github Account](/01_Assets/01-get-account.md)
-1. [Fork this repository](/01_Assets/02-fork-repo.md)
-1. [Activate your Codespace](/01_Assets/03-activate-codespace.md)
-
-
-### The exercises
-
-*Datasphere Exercises:*
-
-4. [Datasphere Tutorial](/exercises/tutorial-datasphere.md) 
-
-*Machine Learning Exercises:*
-
-5. [Configure your credentials.json, defined in the prior step](/exercises/credentials.md)
-6. [Data Exploration and preparation](exercises/10-Data-exploration-and-preparation.ipynb)
-7. [Create a first forecast with Hana ML](exercises/20-Create-forecast.ipynb)
-8. [Create a forecast with hyperparameter tuning](exercises/30-Create-forecast-with-hyperparameter-tuning.ipynb)
-
-How To run a Jupyter Notebook Cell by Cell:
-![alt text](/01_Assets/img/Notebook.png) 
-
-
-## License
-
-Copyright (c) 2023 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
