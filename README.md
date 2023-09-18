@@ -15,13 +15,14 @@ The workshop material is organized into a sequence of interactive exercises, eac
 ## 🧭 How to Follow the Exercises
 Finished an exercise ahead of time? Fantastic! But hold your horses 🐎— instead of rushing to the next exercise, take a moment to delve deeper into what you've just learned. Experiment, explore, and perhaps even discover something new! This way, we all stay in sync and enrich our learning experience through collective reflection and discussion.
 
-## 📋 Exercise Overview
-Before you jump into the exercises, make sure you've successfully completed all the setup steps.
 
 ### Set Up:
 1. [Setup your Github Account](/01_Assets/01-get-account.md)
 1. [Fork this repository](/01_Assets/02-fork-repo.md)
 1. [Activate your Codespace](/01_Assets/03-activate-codespace.md)
+
+## 📋 Exercise Overview
+Before you jump into the exercises, make sure you've successfully completed all the setup steps.
 
 
 ### The exercises
@@ -40,7 +41,7 @@ Before you jump into the exercises, make sure you've successfully completed all 
 <details>
   <summary>Never used a Jupyter Notebook? Click here for more Infos!</summary>
 
-<br>
+
 How To run a Jupyter Notebook Cell by Cell:
 ![alt text](/01_Assets/img/Notebook.png) 
 
