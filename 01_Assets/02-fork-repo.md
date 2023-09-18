@@ -41,10 +41,10 @@ You might fork a project to propose changes to the upstream repository. In this 
 ![alt text](../01_Assets/img/010_github.png) 
 
 <br>
-Continue with the next step under [Activate your Codespace](../01_Assets/03-activate-codespace.md).
+Continue with the next step under [Activate your Codespace](/01_Assets/03-activate-codespace.md).
 
 <br>
-test
+
 <details>
 
 <br>
