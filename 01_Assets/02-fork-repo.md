@@ -31,11 +31,17 @@ You might fork a project to propose changes to the upstream repository. In this 
 
 ![alt text](https://docs.github.com/assets/cb-79331/mw-1440/images/help/repository/fork_button.webp) 
 
-1. Under "Owner," select the dropdown menu and click an owner for the forked repository.
-1. By default, forks are named the same as their upstream repositories. Optionally, to further distinguish your fork, in the "Repository name" field, type a name.
-1. Optionally, in the "Description" field, type a description of your fork.
-1. Click Create fork.
+3. Under "Owner," select the dropdown menu and click an owner for the forked repository.
+4. By default, forks are named the same as their upstream repositories. Optionally, to further distinguish your fork, in the "Repository name" field, type a name.
+5. Optionally, in the "Description" field, type a description of your fork.
+6. Click Create fork.
 
+*You should now see the forked repository under your account with the name choosen*
+
+![alt text](../01_Assets/img/010_github.png) 
+
+<br>
+Continue with [Activate your Codespace](/01_Assets/03-activate-codespace.md)
 
 <details>
 
@@ -50,3 +56,7 @@ You might fork a project to propose changes to the upstream repository. In this 
 
 </details>
 
+
+
+cd ~/.oh-my-zsh && git clone https://github.com/zsh-users/zsh-syntax-highlighting.git
+echo "source ${(q-)PWD}/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> ${ZDOTDIR:-$HOME}/.zshrc
