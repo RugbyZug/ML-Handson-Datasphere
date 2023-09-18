@@ -26,7 +26,7 @@ To ensure you can use all the features in your GitHub plan, verify your email ad
 
 Your GitHub profile tells people the story of your work through the repositories and gists you've pinned, the organization memberships you've chosen to publicize, the contributions you've made, and the projects you've created. For more information, see "About your profile" and "Viewing contributions on your profile."
 
-<br>
+
 Continue with  [Fork this repository](/01_Assets/02-fork-repo.md).
 
 
