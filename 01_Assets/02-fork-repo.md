@@ -28,8 +28,9 @@ You might fork a project to propose changes to the upstream repository. In this 
 
 1. On GitHub.com, navigate to the [ermaconomist/ML-Handson-Datasphere](https://github.com/Ermaconomist/ML-Handson-Datasphere) repository.
 1. In the top-right corner of the page, click Fork.
-<br>
+
 ![alt text](https://docs.github.com/assets/cb-79331/mw-1440/images/help/repository/fork_button.webp) 
+
 1. Under "Owner," select the dropdown menu and click an owner for the forked repository.
 1. By default, forks are named the same as their upstream repositories. Optionally, to further distinguish your fork, in the "Repository name" field, type a name.
 1. Optionally, in the "Description" field, type a description of your fork.
@@ -40,7 +41,9 @@ You might fork a project to propose changes to the upstream repository. In this 
 
 <br>
 <br>
+
   <summary>More information on how to Fork Setups</summary>
+  
 <br>
 
 1. [Github Docu on forking](https://docs.github.com/en/get-started/quickstart/fork-a-repo?platform=mac)
