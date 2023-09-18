@@ -1,6 +1,3 @@
-# ML-/ Datasphere Hands-On Worksop
-Getting Started with Machine Learning using SAP HANA and Python
-
 # 🚀 ML-/ Datasphere Hands-On Workshop: Unleashing the Power of Machine Learning with SAP HANA & Python 🐍
 
 ## 🌟 Description
