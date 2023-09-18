@@ -39,8 +39,11 @@ Before you jump into the exercises, make sure you've successfully completed all 
 8. [Create a forecast with hyperparameter tuning](exercises/30-Create-forecast-with-hyperparameter-tuning.ipynb)
 
 <details>
-  <summary>Never used a Jupyter Notebook? Click here for more Infos!</summary>
 
+<br>
+<br>
+  <summary>Never used a Jupyter Notebook? Click here for more Infos!</summary>
+<br>
 
 How To run a Jupyter Notebook Cell by Cell:
 ![alt text](/01_Assets/img/Notebook.png) 
