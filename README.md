@@ -32,19 +32,18 @@ Set Up:
 1. [Activate your Codespace](https://docs.github.com/en/codespaces/getting-started/quickstart)
 
 
-1. Continue with Machine Learning Exercises
 ### The exercises
 
 *Datasphere Exercises:*
 
-1. [Datasphere Tutorial](../exercises/tutorial-datasphere.md) 
+4. [Datasphere Tutorial](../exercises/tutorial-datasphere.md) 
 
 *Machine Learning Exercises:*
 
-1. [Configure your credentials.json, defined in the prior step](/exercises/credentials.json) 
-1. [Data Exploration and preparation](exercises/10-Data-exploration-and-preparation.ipynb)
-1. [Create a first forecast with Hana ML](exercises/20-Create-forecast.ipynb)
-1. [Create a forecast with hyperparameter tuning](exercises/30-Create-forecast-with-hyperparameter-tuning.ipynb)
+5. [Configure your credentials.json, defined in the prior step](/exercises/credentials.json) 
+6. [Data Exploration and preparation](exercises/10-Data-exploration-and-preparation.ipynb)
+7. [Create a first forecast with Hana ML](exercises/20-Create-forecast.ipynb)
+8. [Create a forecast with hyperparameter tuning](exercises/30-Create-forecast-with-hyperparameter-tuning.ipynb)
 
 Link:
 1. [DATASPHERE Development Environment ](https://hana-cockpit-004.cfapps.eu10.hana.ondemand.com/hrtt/sap/hana/cst/catalog/cockpit-index.html?databaseid=C3683523)
