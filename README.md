@@ -45,7 +45,8 @@ Here's an overview of the exercises but make certain that you have successfully 
 7. [Create a first forecast with Hana ML](exercises/20-Create-forecast.ipynb)
 8. [Create a forecast with hyperparameter tuning](exercises/30-Create-forecast-with-hyperparameter-tuning.ipynb)
 
-
+How To run a Jupyter Notebook Cell by Cell:
+![alt text](../01_Assets/img/Notebook.png) 
 
 
 ## License
