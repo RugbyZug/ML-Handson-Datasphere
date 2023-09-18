@@ -41,7 +41,7 @@ You might fork a project to propose changes to the upstream repository. In this 
 ![alt text](../01_Assets/img/010_github.png) 
 
 <br>
-Continue with [Activate your Codespace](/01_Assets/03-activate-codespace.md)
+Continue with [Activate your Codespace](../01_Assets/03-activate-codespace.md)
 
 <details>
 
@@ -55,8 +55,3 @@ Continue with [Activate your Codespace](/01_Assets/03-activate-codespace.md)
 1. [Github Docu on forking](https://docs.github.com/en/get-started/quickstart/fork-a-repo?platform=mac)
 
 </details>
-
-
-
-cd ~/.oh-my-zsh && git clone https://github.com/zsh-users/zsh-syntax-highlighting.git
-echo "source ${(q-)PWD}/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> ${ZDOTDIR:-$HOME}/.zshrc
