@@ -16,7 +16,7 @@ To sign up for an account on GitHub.com, navigate to [GitHub](https://github.com
 
 ### 2. Choosing Your GitHub Product
 
-You can choose GitHub Free or GitHub Pro to get access to different features for your personal account. You can upgrade at any time if you are unsure at first which product you want. **For this course we only need the free version.** [GitHub’s plans](https://docs.github.com/en/get-started/learning-about-github/githubs-plans).
+ **For this course we only need the free version.** [GitHub’s plans](https://docs.github.com/en/get-started/learning-about-github/githubs-plans).
 
 ### 3. Verifying Your Email Address
 
