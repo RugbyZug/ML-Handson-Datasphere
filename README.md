@@ -31,10 +31,9 @@ Timeline:
 1. [Setup your Github Account](https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account)
 1. [Fork this repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
 1. [Activate your Codespace](https://docs.github.com/en/codespaces/getting-started/quickstart)
-1. [Start with the Datasphere Exercise](/exercises/tutorial-datasphere.md) 
+1. Start with the Datasphere Exercise
 1. [Configure your credentials.json, defined in the prio step](/exercises/credentials.json) 
-1. [Continue with the Jupyter Notebooks](exercises/10-Data-exploration-and-preparation.ipynb)
-
+1. Continue with Machine Learning Excercises
 ### The exercises
 
 *Datasphere Exercises:*
