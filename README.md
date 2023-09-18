@@ -23,17 +23,19 @@ The material consists of a series of exercises. Each exercise is a notebook to b
 
 If you finish an exercise early, please resist the temptation to continue with the next one. Instead, explore what you've just done and see if you can find out more about the subject that was covered. That way we all stay on track together and can benefit from some reflection via the questions (and answers).
 
-### The exercises
+
 
 Here's an overview of the exercises but make certain that you have successfully completed all the [setup steps](01_Assets/setup-bas.md) first
 
-Setup:
+Timeline:
 1. [Setup your Github Account](https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account)
 1. [Fork this repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
 1. [Activate your Codespace](https://docs.github.com/en/codespaces/getting-started/quickstart)
 1. [Start with the Datasphere Exercise](/exercises/tutorial-datasphere.md) 
 1. [Configure your credentials.json, defined in the prio step](/exercises/credentials.json) 
 1. [Continue with the Jupyter Notebooks](exercises/10-Data-exploration-and-preparation.ipynb)
+
+### The exercises
 
 *Datasphere Exercises:*
 
