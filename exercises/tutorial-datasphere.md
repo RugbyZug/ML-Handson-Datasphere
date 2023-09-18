@@ -4,7 +4,7 @@ Please begin by opening a Chrome browser and enter the SAP Datasphere
 URL provided from your Workshop organizers.
 
 [Click here to open the SAP Datasphere
-URL](https://academy.eu10.hcs.cloud.sap/)
+URL](https://hana-cockpit-004.cfapps.eu10.hana.ondemand.com/hrtt/sap/hana/cst/catalog/cockpit-index.html?databaseid=C3683523)
 
 Enter the following:
 
