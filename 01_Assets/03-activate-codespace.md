@@ -13,4 +13,4 @@ In this guide, you'll create a codespace from this repository and explore some e
 
 ## Your good-to-go! 
 
-Continue with the excercises under ![activate Codespace with the forked repository](../README.md)  
+Continue with the excercises under [activate Codespace with the forked repository](../README.md)  
