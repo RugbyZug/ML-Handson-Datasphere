@@ -24,16 +24,15 @@ The material consists of a series of exercises. Each exercise is a notebook to b
 If you finish an exercise early, please resist the temptation to continue with the next one. Instead, explore what you've just done and see if you can find out more about the subject that was covered. That way we all stay on track together and can benefit from some reflection via the questions (and answers).
 
 
-
 Here's an overview of the exercises but make certain that you have successfully completed all the [setup steps](01_Assets/setup-bas.md) first
 
-Timeline:
+Set Up:
 1. [Setup your Github Account](https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account)
 1. [Fork this repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
 1. [Activate your Codespace](https://docs.github.com/en/codespaces/getting-started/quickstart)
-1. Start with the Datasphere Exercise
-1. [Configure your credentials.json, defined in the prio step](/exercises/credentials.json) 
-1. Continue with Machine Learning Excercises
+
+
+1. Continue with Machine Learning Exercises
 ### The exercises
 
 *Datasphere Exercises:*
@@ -42,6 +41,7 @@ Timeline:
 
 *Machine Learning Exercises:*
 
+1. [Configure your credentials.json, defined in the prior step](/exercises/credentials.json) 
 1. [Data Exploration and preparation](exercises/10-Data-exploration-and-preparation.ipynb)
 1. [Create a first forecast with Hana ML](exercises/20-Create-forecast.ipynb)
 1. [Create a forecast with hyperparameter tuning](exercises/30-Create-forecast-with-hyperparameter-tuning.ipynb)
@@ -49,10 +49,6 @@ Timeline:
 Link:
 1. [DATASPHERE Development Environment ](https://hana-cockpit-004.cfapps.eu10.hana.ondemand.com/hrtt/sap/hana/cst/catalog/cockpit-index.html?databaseid=C3683523)
 
-
-## Known Issues
-
-Not known issues as of now.
 
 
 ## License
