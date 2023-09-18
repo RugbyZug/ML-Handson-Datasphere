@@ -8,5 +8,5 @@
 ![It should look like this and should be editable](../01_Assets/img/030_credentials.png) 
 
 5. Save the file 
-6. Continue with [Data Exploration and preparation](exercises/10-Data-exploration-and-preparation.ipynb)
+6. Continue with [Data Exploration and preparation](/exercises/10-Data-exploration-and-preparation.ipynb)
 
