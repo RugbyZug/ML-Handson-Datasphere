@@ -1,49 +1,41 @@
 # ML-/ Datasphere Hands-On Worksop
 Getting Started with Machine Learning using SAP HANA and Python
 
+# 🚀 ML-/ Datasphere Hands-On Workshop: Unleashing the Power of Machine Learning with SAP HANA & Python 🐍
 
-<br>
+## 🌟 Description
+Welcome to this immersive ML-/ Datasphere Hands-On Workshop, brought to you in collaboration with SAP! Whether you're joining us on-site or virtually, this repository is your treasure trove of knowledge. Dive deep into the intricacies of Machine Learning as we guide you through a Python Client for SAP HANA and explore the limitless possibilities with SAP Datasphere.
 
-## Description
+## 🛠️ Requirements
+Before you embark on this enlightening journey, there are a few prerequisites to take care of. Don't worry, we've got you covered with a comprehensive guide, which you can find below.
 
-This repository contains the material for the on-site and virtual ML-/ Datasphere Hands-On Worksop with SAP. You will learn how the Machine Learning process develops using a Python Client for SAP HANA and how we can leverage SAP Datasphere within the process.
+## 📚 Material Organization
+The workshop material is organized into a sequence of interactive exercises, each encapsulated in its own Jupyter Notebook. Navigate through these notebooks as you would through a storybook, each chapter revealing new facets of Machine Learning and SAP technologies.
 
-<br>
- 
-## Requirements
+## 🧭 How to Follow the Exercises
+Finished an exercise ahead of time? Fantastic! But hold your horses 🐎— instead of rushing to the next exercise, take a moment to delve deeper into what you've just learned. Experiment, explore, and perhaps even discover something new! This way, we all stay in sync and enrich our learning experience through collective reflection and discussion.
 
-For this Workshop, you'll need to follow certain steps that are documented here:
-
-
-### Material organization
-
-The material consists of a series of exercises. Each exercise is a notebook to be executed. See below where to start with the exercises.
-
-### Following the exercises
-
-If you finish an exercise early, please resist the temptation to continue with the next one. Instead, explore what you've just done and see if you can find out more about the subject that was covered. That way we all stay on track together and can benefit from some reflection via the questions (and answers).
-
-
-Here's an overview of the exercises but make certain that you have successfully completed all the [setup steps](01_Assets/setup-bas.md) first
+## 📋 Exercise Overview
+Before you jump into the exercises, make sure you've successfully completed all the setup steps.
 
 ### Set Up:
-- [ ] [Setup your Github Account](/01_Assets/01-get-account.md)
-- [ ]  [Fork this repository](/01_Assets/02-fork-repo.md)
-- [ ]  [Activate your Codespace](/01_Assets/03-activate-codespace.md)
+1. [Setup your Github Account](/01_Assets/01-get-account.md)
+1. [Fork this repository](/01_Assets/02-fork-repo.md)
+1. [Activate your Codespace](/01_Assets/03-activate-codespace.md)
 
 
 ### The exercises
 
 *Datasphere Exercises:*
 
-- [ ]  [Datasphere Tutorial](/exercises/tutorial-datasphere.md) 
+4. [Datasphere Tutorial](/exercises/tutorial-datasphere.md) 
 
 *Machine Learning Exercises:*
 
-- [ ]  [Configure your credentials.json, defined in the prior step](/exercises/credentials.md)
-- [ ]  [Data Exploration and preparation](exercises/10-Data-exploration-and-preparation.ipynb)
-- [ ]  [Create a first forecast with Hana ML](exercises/20-Create-forecast.ipynb)
-- [ ]  [Create a forecast with hyperparameter tuning](exercises/30-Create-forecast-with-hyperparameter-tuning.ipynb)
+5. [Configure your credentials.json, defined in the prior step](/exercises/credentials.md)
+6. [Data Exploration and preparation](exercises/10-Data-exploration-and-preparation.ipynb)
+7. [Create a first forecast with Hana ML](exercises/20-Create-forecast.ipynb)
+8. [Create a forecast with hyperparameter tuning](exercises/30-Create-forecast-with-hyperparameter-tuning.ipynb)
 
 <details>
   <summary>Never used a Jupyter Notebook? Click here for more Infos!</summary>
