@@ -7,11 +7,7 @@ A fork is a new repository that shares code and visibility settings with the ori
 A fork is a new repository that shares code and visibility settings with the original “upstream” repository. Forks are commonly used to iterate on ideas or changes before they are proposed back to the upstream repository. This is especially useful in open source projects or when you do not have write access to the upstream repository. **We need to fork this repository so you can work with the exericse files provided in you own workspace**
 
 
-## Open Source and Forks
-
-Open source software is based on the idea that sharing code can lead to better, more reliable software. For more information, see "About the Open Source Initiative" and GitHub's white paper "An introduction to innersource."
-
-## Forking a Repository
+## Forking the ML Repository
 
 You might fork a project to propose changes to the upstream repository. In this case, it's good practice to regularly sync your fork with the upstream repository. To do this, you'll need to use Git on the command line. You can practice setting the upstream repository using the same  [ermaconomist/ML-Handson-Datasphere](https://github.com/Ermaconomist/ML-Handson-Datasphere) repository you just forked.
 
