@@ -1,7 +1,7 @@
 # 🚀 ML-/ Datasphere Hands-On Workshop: Unleashing the Power of Machine Learning with SAP HANA & Python 🐍
 
 ## 🌟 Description
-Welcome to this immersive ML-/ Datasphere Hands-On Workshop, brought to you by your SWISS SAP Team! Whether you're joining us on-site or virtually, this repository is your treasure trove of knowledge. Dive deep into the intricacies of Machine Learning as we guide you through a Python Client for SAP HANA and explore the limitless possibilities with SAP Datasphere.
+Welcome to this immersive ML-/ Datasphere Hands-On Workshop, brought to you by your Swiss SAP Team & Global Center of Excellence! Whether you're joining us on-site or virtually, this repository is your treasure trove of knowledge. Dive deep into the intricacies of Machine Learning as we guide you through a Python Client for SAP HANA and explore the limitless possibilities with SAP Datasphere.
 
 ## 🛠️ Requirements
 Before you embark on this enlightening journey, there are a few prerequisites to take care of. Don't worry, we've got you covered with a comprehensive guide, which you can find below.

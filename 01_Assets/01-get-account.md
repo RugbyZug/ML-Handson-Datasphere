@@ -12,19 +12,11 @@ There are several types of accounts on GitHub. Every person who uses GitHub has 
 
 ### 1. Creating an Account
 
-To sign up for an account on GitHub.com, navigate to [GitHub](https://github.com/) and follow the prompts. To keep your GitHub account secure you should use a strong and unique password. For more information, see "Creating a strong password."
-
-### 2. Choosing Your GitHub Product
-
- **For this course we only need the free version.** [GitHub’s plans](https://docs.github.com/en/get-started/learning-about-github/githubs-plans).
+To sign up for an account on GitHub.com, navigate to [GitHub](https://github.com/) and sign up on the top right, follow the prompts. Select the free version.
 
 ### 3. Verifying Your Email Address
 
 To ensure you can use all the features in your GitHub plan, verify your email address after signing up for a new account. 
-
-### 4. Viewing Your GitHub Profile and Contribution Graph
-
-Your GitHub profile tells people the story of your work through the repositories and gists you've pinned, the organization memberships you've chosen to publicize, the contributions you've made, and the projects you've created. For more information, see "About your profile" and "Viewing contributions on your profile."
 
 
 Continue with  [Fork this repository](/01_Assets/02-fork-repo.md).
