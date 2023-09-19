@@ -8,7 +8,8 @@
 ![It should look like this and should be editable](../01_Assets/img/030_credentials.png) 
 
 5. Saving is not required
-6. Continue within the *codespace* with the jupyter notebook > /workspaces/ML-Handson-Datasphere/exercises/10-Data-exploration-and-preparation.ipynb
+6. Continue within the *codespace* with the jupyter notebook /workspaces/ML-Handson-Datasphere/exercises/10-Data-exploration-and-preparation.ipynb, following the main time line under [main description (README.md](../README.md)  
+
 
 
 
