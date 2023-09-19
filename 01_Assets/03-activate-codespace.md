@@ -15,6 +15,6 @@ In this guide, you'll create a codespace from this repository and explore some e
 
 ![activate Codespace with the forked repository](../01_Assets/img/020_Codespace.png) 
 
-## Your good-to-go! 
+## You're good-to-go! 
 
 Continue with the excercises under [main description (README.md](../README.md)  
