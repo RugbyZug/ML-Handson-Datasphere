@@ -33,7 +33,7 @@ Before you jump into the exercises, make sure you've successfully completed all 
 
 5. [Configure your credentials.json, defined in the prior step](/exercises/credentials.md)
 
-These are the jupyter notebooks, that will be executed in your own codespace, created under 3. [Activate your Codespace](/01_Assets/03-activate-codespace.md). Clicking these links, will display the static version.
+_These are the jupyter notebooks, that will be executed in your own codespace, created under 3. Clicking these links, will display the static version._
 
 6. [Data Exploration and preparation](exercises/10-Data-exploration-and-preparation.ipynb)
 7. [Create a first forecast with Hana ML](exercises/20-Create-forecast.ipynb)
