@@ -28,6 +28,7 @@ Before you jump into the exercises, make sure you've successfully completed all 
 4. [Datasphere Tutorial](/exercises/tutorial-datasphere.md) 
 
 *Machine Learning Exercises:*
+
 5. [Configure your credentials.json, defined in the prior step](/exercises/credentials.md)
 
 These are the jupyter notebooks, that will be executed in your own codespace, created under 3. [Activate your Codespace](/01_Assets/03-activate-codespace.md). Clicking these links, will display the static version.
