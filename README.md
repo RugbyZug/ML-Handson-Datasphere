@@ -29,8 +29,6 @@ Before you jump into the exercises, make sure you've successfully completed all 
 
 *Machine Learning Exercises:*
 
-<br>
-
 5. [Configure your credentials.json, defined in the prior step](/exercises/credentials.md)
 
 _These are the jupyter notebooks, that will be executed in your own codespace, created under 3._ <br>
