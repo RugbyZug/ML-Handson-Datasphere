@@ -1,6 +1,6 @@
 # Change your credentials
 
-1. Open Your Codespaces created under 3. [Activate your Codespace](/01_Assets/03-activate-codespace.md)
+1. Open Your Codespaces created under 3. [Activate your Codespace]([main description (README.md](../README.md))
 2. Change to the file section on the left
 3. Click on the credentials.json file
 4. Change credentials with your User and Password defined under [Datasphere Tutorial](/exercises/tutorial-datasphere.md) 
