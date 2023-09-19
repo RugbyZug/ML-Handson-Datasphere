@@ -4,12 +4,10 @@ A fork is a new repository that shares code and visibility settings with the ori
 
 ## About Forks
 
-A fork is a new repository that shares code and visibility settings with the original “upstream” repository. Forks are commonly used to iterate on ideas or changes before they are proposed back to the upstream repository. This is especially useful in open source projects or when you do not have write access to the upstream repository. **We need to fork this repository so you can work with the exericse files provided in you own workspace**
+**We need to fork this repository so you can work with the exericse files provided in you own workspace**
 
 
 ## Forking the ML Repository
-
-You might fork a project to propose changes to the upstream repository. In this case, it's good practice to regularly sync your fork with the upstream repository. To do this, you'll need to use Git on the command line. You can practice setting the upstream repository using the same  [ermaconomist/ML-Handson-Datasphere](https://github.com/Ermaconomist/ML-Handson-Datasphere) repository you just forked.
 
 1. Navigate to the [ermaconomist/ML-Handson-Datasphere](https://github.com/Ermaconomist/ML-Handson-Datasphere) repository.
 1. In the top-right corner of the page, click Fork.
