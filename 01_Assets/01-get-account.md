@@ -14,7 +14,7 @@ There are several types of accounts on GitHub. Every person who uses GitHub has 
 
 To sign up for an account on GitHub.com, navigate to [GitHub](https://github.com/) and sign up on the top right, follow the prompts. Select the free version.
 
-### 3. Verifying Your Email Address
+### 1. Verifying Your Email Address
 
 To ensure you can use all the features in your GitHub plan, verify your email address after signing up for a new account. 
 
