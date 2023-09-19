@@ -11,17 +11,17 @@ A fork is a new repository that shares code and visibility settings with the ori
 
 You might fork a project to propose changes to the upstream repository. In this case, it's good practice to regularly sync your fork with the upstream repository. To do this, you'll need to use Git on the command line. You can practice setting the upstream repository using the same  [ermaconomist/ML-Handson-Datasphere](https://github.com/Ermaconomist/ML-Handson-Datasphere) repository you just forked.
 
-1. On GitHub.com, navigate to the [ermaconomist/ML-Handson-Datasphere](https://github.com/Ermaconomist/ML-Handson-Datasphere) repository.
+1. Navigate to the [ermaconomist/ML-Handson-Datasphere](https://github.com/Ermaconomist/ML-Handson-Datasphere) repository.
 1. In the top-right corner of the page, click Fork.
 
 ![alt text](https://docs.github.com/assets/cb-79331/mw-1440/images/help/repository/fork_button.webp) 
 
-3. Under "Owner," select the dropdown menu and click an owner for the forked repository.
+3. Under "Owner," select your own username.
 4. By default, forks are named the same as their upstream repositories. Optionally, to further distinguish your fork, in the "Repository name" field, type a name.
 5. Optionally, in the "Description" field, type a description of your fork.
 6. Click Create fork.
 
-*You should now see the forked repository under your account with the name choosen*
+*You should now see the forked repository under your account with the name choosen. This is the code you'll execute in the workshop.*
 
 ![alt text](../01_Assets/img/010_github.png) 
 
