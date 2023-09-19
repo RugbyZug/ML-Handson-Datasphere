@@ -1,18 +1,11 @@
-# Fork a Repo: A Comprehensive Guide for Mac Users
+# Fork a Repo
 
 A fork is a new repository that shares code and visibility settings with the original "upstream" repository. Forks are often used to propose changes before they are integrated into the main project.
 
 ## About Forks
 
-A fork is a new repository that shares code and visibility settings with the original “upstream” repository. Forks are commonly used to iterate on ideas or changes before they are proposed back to the upstream repository. This is especially useful in open source projects or when you do not have write access to the upstream repository. **We need to fork this repository so you can work with the exericse files provided in you own work space**
+A fork is a new repository that shares code and visibility settings with the original “upstream” repository. Forks are commonly used to iterate on ideas or changes before they are proposed back to the upstream repository. This is especially useful in open source projects or when you do not have write access to the upstream repository. **We need to fork this repository so you can work with the exericse files provided in you own workspace**
 
-### Propose Changes to Someone Else's Project
-
-You can use forks to propose changes related to fixing a bug. The general workflow is:
-
-1. Fork the repository.
-2. Make the fix.
-3. Submit a pull request to the project owner.
 
 ## Open Source and Forks
 
