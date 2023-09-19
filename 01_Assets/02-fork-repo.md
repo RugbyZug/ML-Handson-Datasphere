@@ -11,10 +11,6 @@ A fork is a new repository that shares code and visibility settings with the ori
 
 Open source software is based on the idea that sharing code can lead to better, more reliable software. For more information, see "About the Open Source Initiative" and GitHub's white paper "An introduction to innersource."
 
-## Prerequisites
-
-Before forking a repository, set up Git and authenticate with GitHub.com. For more information, see [Setup your Github Account](/01_Assets/01-get-account.md)
-
 ## Forking a Repository
 
 You might fork a project to propose changes to the upstream repository. In this case, it's good practice to regularly sync your fork with the upstream repository. To do this, you'll need to use Git on the command line. You can practice setting the upstream repository using the same  [ermaconomist/ML-Handson-Datasphere](https://github.com/Ermaconomist/ML-Handson-Datasphere) repository you just forked.
