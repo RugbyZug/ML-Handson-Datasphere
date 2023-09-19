@@ -21,7 +21,6 @@ Finished an exercise ahead of time? Fantastic! But hold your horses 🐎— inst
 ## 📋 Exercise Overview
 Before you jump into the exercises, make sure you've successfully completed all the setup steps.
 
-
 ### The exercises
 
 *Datasphere Exercises:*
@@ -29,7 +28,8 @@ Before you jump into the exercises, make sure you've successfully completed all 
 4. [Datasphere Tutorial](/exercises/tutorial-datasphere.md) 
 
 *Machine Learning Exercises:*
-
+These are the jupyter notebooks, that will be executed in your own codespace, created under 3. [Activate your Codespace](/01_Assets/03-activate-codespace.md). Clicking these links, will display the static version.
+<br>
 5. [Configure your credentials.json, defined in the prior step](/exercises/credentials.md)
 6. [Data Exploration and preparation](exercises/10-Data-exploration-and-preparation.ipynb)
 7. [Create a first forecast with Hana ML](exercises/20-Create-forecast.ipynb)
