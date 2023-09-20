@@ -239,10 +239,10 @@ Right Click on "Views".
 
 Show Views
 
-![alt text](../01_Assets/img/Picture025.png) 
+![alt text](../01_Assets/img/Picture25.png) 
 
 You can use the filter for an better overview.
 
-![alt text](https://github.tools.sap/I560886/ML-Handson-Datasphere/blob/main/01_Assets/img/Picture%2026.png)
+![alt text](../01_Assets/img/Picture026.png) 
 
 Congratulation, you finished the first part of the exercise.
