@@ -125,9 +125,6 @@ object, you are creating a run-time version for use in the SAP
 Datasphere database.
 
 ![alt text](../01_Assets/img/Picture015.png) 
-
-<details>
-  <summary>Click me</summary>
   
   # Create New Database User
   
