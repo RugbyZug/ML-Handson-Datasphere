@@ -199,7 +199,7 @@ Datasphere database.
   
   
   <details>
-    <summary>Optional Exercise: Leverage the Database Explorer</summary>
+    <summary>##Optional Exercise: Leverage the Database Explorer</summary>
     Depending on your system, this could lead to errors.
   
   
