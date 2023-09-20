@@ -151,6 +151,8 @@ Navigate to the Database Users section of your space and click Create.
 
 Name the Database user suffix as OPENSCHEMA.
 
+Check Enable Automated Predictive Library (APL) and Predictive Analysis Library (PAL) [Note that this tick is missing in the screenshot, but you have to select this box]
+
 Check Enable Read and Enable Write Access to the schema. This allows
 external applications to access this schema and exchange data.
 
