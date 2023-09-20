@@ -189,13 +189,21 @@ Click on the Show Password icon.
 Save this password (yours will be different) as it will not be shown
 again (per on-screen instructions).
 
+Save as well the Host Name to your notes. You'll need it later.
+
 Click Close.
 
 **Note**: You will need this password in subsequent steps!
 
 ![alt text](../01_Assets/img/Picture021.png) 
 
-# Log in with Database User
+
+<details>
+  <summary>Optional Exercise: Leverage the Database Explorer</summary>
+  Depending on your system, this could lead to errors.
+
+
+  # Log in with Database User
 
 Database Explorer is SAP Datasphere's built-in SQL tool that provides
 access to the underlying Hana database. In this unit, we will be using
@@ -244,5 +252,9 @@ Show Views
 You can use the filter for an better overview.
 
 ![alt text](../01_Assets/img/Picture026.png) 
+
+</details>
+
+
 
 Congratulation, you finished the first part of the exercise.
