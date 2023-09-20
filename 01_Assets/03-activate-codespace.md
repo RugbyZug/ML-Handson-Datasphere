@@ -30,9 +30,10 @@ Clean the search bar, and check that Python and Jupyter extensions are installed
 ## Install required Python packages
 Install the Python machine learning client for SAP HANA (hana-ml) and other required dependencies listed in https://help.sap.com/doc/cd94b08fe2e041c2ba778374572ddba9/2023_2_QRC/en-US/Installation.html#installation-guide using the following command in the "Terminal" tab on the right hand side: <br>
 
-```python
+```
 python -m pip install hana-ml ipywidgets 'jinja2>=3.0.0' pydotplus graphviz 'shapely>=1.7.1' matplotlib  --no-cache-dir
 ```
+
 
 ![image](https://github.com/Ermaconomist/ML-Handson-Datasphere/assets/145453780/0fb628bf-d0a1-4c26-80b0-3e71dfbefe78)
 
