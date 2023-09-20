@@ -126,132 +126,135 @@ Datasphere database.
 
 ![alt text](../01_Assets/img/Picture015.png) 
 
-# Create New Database User
-
-In this lesson we will create a new User and an associated schema in the
-underlying database. This will allow us access into SAP Datasphere via
-third party tools.
-
-Steps:
-
-Click on Space Management in your system.
-
-If prompted select your space XXXXX .
-
-Verify that you see your Space ID at the top of your Session.
-
-![alt text](../01_Assets/img/Picture016.png) 
-
-We will now create a new User and an associated schema in the underlying
-database.
-
-Navigate to the Database Users section of your space and click Create.
-
-![alt text](../01_Assets/img/Picture017.png) 
-
-Name the Database user suffix as OPENSCHEMA.
-
-Check Enable Automated Predictive Library (APL) and Predictive Analysis Library (PAL) [Note that this tick is missing in the screenshot, but you have to select this box]
-
-Check Enable Read and Enable Write Access to the schema. This allows
-external applications to access this schema and exchange data.
-
-Check the box for Enable Read Access (SQL).
-
-Check the box for Enable Write Access (SQL, DDL & DML).
-
-Click Create.
-
-![alt text](../01_Assets/img/Picture018.png) 
-
-Now Click Deploy to activate these changes to your space.
-
-**Note**: You may have to wait a few seconds to be notified that the
-Deploymenht was successful before going to the next step.
-
-Once the 'Deployment was Successful' message appears, click on the "i"
-button at the far-right end of the line with your new user on it.
-
-![alt text](../01_Assets/img/Picture019.png) 
-
-Note the system-generated Host Name and Port for future use -- this is
-the database host name to connect from third party tools. We will not
-use it further in this exercise... only FYI...
-
-Click on Request New Password.
-
-We want to generate a new password for our Database User.
-
-![alt text](../01_Assets/img/Picture020.png) 
-
-Click on the Show Password icon.
-
-Save this password (yours will be different) as it will not be shown
-again (per on-screen instructions).
-
-Save as well the Host Name to your notes. You'll need it later.
-
-Click Close.
-
-**Note**: You will need this password in subsequent steps!
-
-![alt text](../01_Assets/img/Picture021.png) 
-
-
 <details>
-  <summary>Optional Exercise: Leverage the Database Explorer</summary>
-  Depending on your system, this could lead to errors.
-
-
-  # Log in with Database User
-
-Database Explorer is SAP Datasphere's built-in SQL tool that provides
-access to the underlying Hana database. In this unit, we will be using
-this tool to interact with the new schema we created. You could also use
-your favorite DB management tool like DBeaver, any ETL tool, and even
-3rd party applications to interact with this schema. Data added to this
-schema will be available for Modeling in the Data Builder.
-
-Check the box next to your newly created User.
-
-Click Open Database Explorer.
-
-![alt text](../01_Assets/img/Picture022.png) 
-
-Enter the identify provider key value **sdctapoc-platform** in the input
-field.
-
-Click on 'Sign in with alternative identity provider'.
-
-![alt text](../01_Assets/img/Picture023.png) 
-
-Enter the password we saved in the Clipboard in an earlier step.
-
-Reduce the Display Name to XXXXXXXXX#OPENSCHEMA (it will default to a
-much longer name with this name appended to the end... delete all the
-other text except for the username).
-
-This will be your database description displayed in Database Explorer.
-
-![alt text](../01_Assets/img/Picture024.png) 
-
-Click OK.
-
-Now you are logged in the SAP HANA database explorer. You can use the
-SAP HANA database explorer to query information about the database, as
-well as view information about your database\'s catalog objects.
-
-Here you can find your exposed View.
-
-Right Click on "Views".
-
-Show Views
-
-![alt text](../01_Assets/img/Picture25.png) 
-
-You can use the filter for an better overview.
-
-![alt text](../01_Assets/img/Picture026.png) 
+  <summary>Click me</summary>
+  
+  # Create New Database User
+  
+  In this lesson we will create a new User and an associated schema in the
+  underlying database. This will allow us access into SAP Datasphere via
+  third party tools.
+  
+  Steps:
+  
+  Click on Space Management in your system.
+  
+  If prompted select your space XXXXX .
+  
+  Verify that you see your Space ID at the top of your Session.
+  
+  ![alt text](../01_Assets/img/Picture016.png) 
+  
+  We will now create a new User and an associated schema in the underlying
+  database.
+  
+  Navigate to the Database Users section of your space and click Create.
+  
+  ![alt text](../01_Assets/img/Picture017.png) 
+  
+  Name the Database user suffix as OPENSCHEMA.
+  
+  Check Enable Automated Predictive Library (APL) and Predictive Analysis Library (PAL) [Note that this tick is missing in the screenshot, but you have to select this box]
+  
+  Check Enable Read and Enable Write Access to the schema. This allows
+  external applications to access this schema and exchange data.
+  
+  Check the box for Enable Read Access (SQL).
+  
+  Check the box for Enable Write Access (SQL, DDL & DML).
+  
+  Click Create.
+  
+  ![alt text](../01_Assets/img/Picture018.png) 
+  
+  Now Click Deploy to activate these changes to your space.
+  
+  **Note**: You may have to wait a few seconds to be notified that the
+  Deploymenht was successful before going to the next step.
+  
+  Once the 'Deployment was Successful' message appears, click on the "i"
+  button at the far-right end of the line with your new user on it.
+  
+  ![alt text](../01_Assets/img/Picture019.png) 
+  
+  Note the system-generated Host Name and Port for future use -- this is
+  the database host name to connect from third party tools. We will not
+  use it further in this exercise... only FYI...
+  
+  Click on Request New Password.
+  
+  We want to generate a new password for our Database User.
+  
+  ![alt text](../01_Assets/img/Picture020.png) 
+  
+  Click on the Show Password icon.
+  
+  Save this password (yours will be different) as it will not be shown
+  again (per on-screen instructions).
+  
+  Save as well the Host Name to your notes. You'll need it later.
+  
+  Click Close.
+  
+  **Note**: You will need this password in subsequent steps!
+  
+  ![alt text](../01_Assets/img/Picture021.png) 
+  
+  
+  <details>
+    <summary>Optional Exercise: Leverage the Database Explorer</summary>
+    Depending on your system, this could lead to errors.
+  
+  
+    # Log in with Database User
+  
+  Database Explorer is SAP Datasphere's built-in SQL tool that provides
+  access to the underlying Hana database. In this unit, we will be using
+  this tool to interact with the new schema we created. You could also use
+  your favorite DB management tool like DBeaver, any ETL tool, and even
+  3rd party applications to interact with this schema. Data added to this
+  schema will be available for Modeling in the Data Builder.
+  
+  Check the box next to your newly created User.
+  
+  Click Open Database Explorer.
+  
+  ![alt text](../01_Assets/img/Picture022.png) 
+  
+  Enter the identify provider key value **sdctapoc-platform** in the input
+  field.
+  
+  Click on 'Sign in with alternative identity provider'.
+  
+  ![alt text](../01_Assets/img/Picture023.png) 
+  
+  Enter the password we saved in the Clipboard in an earlier step.
+  
+  Reduce the Display Name to XXXXXXXXX#OPENSCHEMA (it will default to a
+  much longer name with this name appended to the end... delete all the
+  other text except for the username).
+  
+  This will be your database description displayed in Database Explorer.
+  
+  ![alt text](../01_Assets/img/Picture024.png) 
+  
+  Click OK.
+  
+  Now you are logged in the SAP HANA database explorer. You can use the
+  SAP HANA database explorer to query information about the database, as
+  well as view information about your database\'s catalog objects.
+  
+  Here you can find your exposed View.
+  
+  Right Click on "Views".
+  
+  Show Views
+  
+  ![alt text](../01_Assets/img/Picture25.png) 
+  
+  You can use the filter for an better overview.
+  
+  ![alt text](../01_Assets/img/Picture026.png) 
 
 </details>
 
