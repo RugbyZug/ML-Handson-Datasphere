@@ -197,9 +197,9 @@ Datasphere database.
   
   ![alt text](../01_Assets/img/Picture021.png) 
   
-  
+  ## Optional Exercise: Leverage the Database Explorer
   <details>
-    <summary>##Optional Exercise: Leverage the Database Explorer</summary>
+    <summary>Click here!</summary>
     Depending on your system, this could lead to errors.
   
   
