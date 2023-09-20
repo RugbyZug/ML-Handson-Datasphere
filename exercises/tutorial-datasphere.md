@@ -8,9 +8,9 @@ URL](https://academy.eu10.hcs.cloud.sap/)
 
 Enter the following:
 
-Username: provided by instructor
+Username: provided by instructor -> Excel Sheet
 
-Password: provided by instructor
+Password: provided by instructor -> Excel Sheet
 
 ![alt text](../01_Assets/img/Picture001.png) 
 
