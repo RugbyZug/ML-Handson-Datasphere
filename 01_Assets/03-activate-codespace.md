@@ -18,6 +18,20 @@ In this guide, you'll create a codespace from this repository and explore some e
 
 ![activate Codespace with the forked repository](../01_Assets/img/020_Codespace.png) 
 
+## Install required extensions from the marketplace: Python, Jupyter
+Go to (1) Extensions and (2) search for ms-python.python extension. Install (3) it.
+![image](https://github.com/Ermaconomist/ML-Handson-Datasphere/assets/145453780/a2e3f897-b96b-430c-b610-ba2b339cddbd)
+
+Repeat the same for the extension ms-toolsai.jupyter.
+
+Clean the search bar, and check that Python and Jupyter extensions are installed in your codespace.
+![image](https://github.com/Ermaconomist/ML-Handson-Datasphere/assets/145453780/74fdfa30-747c-4f8a-b61f-66129636c5c1)
+
+## Install required Python packages
+Install the Python machine learning client for SAP HANA (hana-ml) and other required dependencies listed in https://help.sap.com/doc/cd94b08fe2e041c2ba778374572ddba9/2023_2_QRC/en-US/Installation.html#installation-guide using the following command in the "Terminal" tab on the right hand side:
+python -m pip install hana-ml ipywidgets 'jinja2>=3.0.0' pydotplus graphviz 'shapely>=1.7.1' matplotlib  --no-cache-dir
+![image](https://github.com/Ermaconomist/ML-Handson-Datasphere/assets/145453780/0fb628bf-d0a1-4c26-80b0-3e71dfbefe78)
+
 ## You're good-to-go! 
 
 Continue with the excercises under [main description (README.md](../README.md)  
